@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867584276753",
+    "project_id": "test-auth-f61cf",
+    "storage_bucket": "test-auth-f61cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867584276753:android:8ac8b1b80c4416bc2534b0",
+        "android_client_info": {
+          "package_name": "com.programmingoneonone.test_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867584276753-u9ifuem163rhc6130dehajjcj6m4nohj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNIEpk18KckwNk_hP0V62w3-tNbLPQwFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867584276753-u9ifuem163rhc6130dehajjcj6m4nohj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
