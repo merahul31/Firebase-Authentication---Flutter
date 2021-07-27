@@ -1,5 +1,7 @@
 # test_auth
 
+## API used: FAKESTOREAPI https://fakestoreapi.com/
+
 A new Flutter application.
 
 ## Getting Started
